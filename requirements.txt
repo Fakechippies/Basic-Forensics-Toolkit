@@ -1,0 +1,4 @@
+numpy
+pyshark
+pillow
+pycryptodome
